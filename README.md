@@ -1,1 +1,1 @@
-# bruet_Landingpage.github.io
+# bruet_landingpage.github.io
